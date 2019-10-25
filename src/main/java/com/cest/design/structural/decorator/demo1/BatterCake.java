@@ -1,4 +1,4 @@
-package com.cest.design.structural.decorator;
+package com.cest.design.structural.decorator.demo1;
 
 public class BatterCake extends ABatterCake {
 

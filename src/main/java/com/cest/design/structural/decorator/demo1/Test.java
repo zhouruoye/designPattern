@@ -1,4 +1,4 @@
-package com.cest.design.structural.decorator;
+package com.cest.design.structural.decorator.demo1;
 
 import lombok.extern.slf4j.Slf4j;
 
