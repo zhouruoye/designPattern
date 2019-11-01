@@ -17,7 +17,7 @@ public class Director extends Approver {
     public void processRequest(PurchaseRequest request) {
         if(request.getAmount() <= 10000){
             log.info(
-                    "主任:" + this.name +
+                    "\n主任:" + this.name +
                     "审批采购单号:" + request.getNumber() +
                     "采购金额:" + request.getAmount() +
                     "采购目的:" + request.getPurpose()
